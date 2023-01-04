@@ -1,0 +1,36 @@
+opel agila 
+4700.00
+toyota ayo
+4900.00
+nissan micra
+4900.00
+toyota yaris
+5000.00
+citroen c3
+5400.00
+fiat panda
+5400.00
+opel corsa
+5700.00
+peugeot 207
+5900.00
+ford fiesta
+6400.00
+nissan micra 
+6900.00
+fiat 500
+7000.00
+nissan qashquai
+7400.00
+alfa romeo giulietta
+8400.00
+smart fortwo
+8400.00
+seat leon
+8500.00
+suzuki sx4
+8900.00
+renault captur
+9400.00
+toyota aygo
+9400.00
